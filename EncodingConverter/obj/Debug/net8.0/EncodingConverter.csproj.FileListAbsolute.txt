@@ -1,0 +1,11 @@
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\bin\Debug\net8.0\EncodingConverter.deps.json
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\bin\Debug\net8.0\EncodingConverter.dll
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\bin\Debug\net8.0\EncodingConverter.pdb
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\obj\Debug\net8.0\EncodingConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\obj\Debug\net8.0\EncodingConverter.AssemblyInfoInputs.cache
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\obj\Debug\net8.0\EncodingConverter.AssemblyInfo.cs
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\obj\Debug\net8.0\EncodingConverter.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\obj\Debug\net8.0\EncodingConverter.dll
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\obj\Debug\net8.0\refint\EncodingConverter.dll
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\obj\Debug\net8.0\EncodingConverter.pdb
+C:\Users\Юзер\Desktop\EncodingConverter\EncodingConverter\obj\Debug\net8.0\ref\EncodingConverter.dll

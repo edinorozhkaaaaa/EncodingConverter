@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodingConverter", "EncodingConverter\EncodingConverter.csproj", "{F6B108FD-7963-44D6-8FD0-04A1FFFF11DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodingConverterTest", "EncodingConverterTest\EncodingConverterTest.csproj", "{DCCE3391-FB44-4EFD-B119-70E04F3EE9D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B108FD-7963-44D6-8FD0-04A1FFFF11DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B108FD-7963-44D6-8FD0-04A1FFFF11DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B108FD-7963-44D6-8FD0-04A1FFFF11DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B108FD-7963-44D6-8FD0-04A1FFFF11DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCE3391-FB44-4EFD-B119-70E04F3EE9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCE3391-FB44-4EFD-B119-70E04F3EE9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCE3391-FB44-4EFD-B119-70E04F3EE9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCE3391-FB44-4EFD-B119-70E04F3EE9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
